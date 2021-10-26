@@ -1,4 +1,3 @@
-I am editing the README file. Adding some more details about the project description.
 # Data-Science-Essentials
 Notes and Interview Questions in Data Science
 
@@ -6,13 +5,13 @@ Notes and Interview Questions in Data Science
 
 ## Database Management Systems
 
-## Python Programming
+## Python Programming -->in root directory
 
 ## Applied Mathematics
 ### Linear Algebra
 ### Calculus
-### Probability
-### Statistics
+### Probability -->inside Course 2 folder
+### Statistics -->inside Course 2 folder
 
 ## Data Engineering
 
@@ -30,7 +29,7 @@ Notes and Interview Questions in Data Science
 
 ## Data Mining and Warehousing
 
-## Information Retrieval
+## Natural Language Processing
 
 ## Optimization
 
